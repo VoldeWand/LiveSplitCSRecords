@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Deltarune</GameName>
+  <CategoryName>Chapter 3</CategoryName>
+  <LayoutPath>E:\LiveSplit\Layouts\Dark_Layout4.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Board 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Board 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Board 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rouxls Kaard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tenna Deez</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Freedom?</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>E:\LiveSplit\LiveSplit\Components\Deltarune.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="AC" type="bool">True</Setting>
+      <Setting id="AC_PauseTimer" type="bool">True</Setting>
+      <Setting id="AC_AlternateCh2" type="bool">True</Setting>
+      <Setting id="AC_PauseTimerOST" type="bool">False</Setting>
+      <Setting id="AC_UnpauseOnLoad" type="bool">False</Setting>
+      <Setting id="AC_UnpauseOnStart" type="bool">False</Setting>
+      <Setting id="Ch1" type="bool">False</Setting>
+      <Setting id="Ch1_School" type="bool">False</Setting>
+      <Setting id="Ch1_CastleTown_DoorClose" type="bool">False</Setting>
+      <Setting id="Ch1_CastleTown_RoomChange" type="bool">False</Setting>
+      <Setting id="Ch1_Fields_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_Checkerboard_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_BakeSale_Enter" type="bool">False</Setting>
+      <Setting id="Ch1_Egg" type="bool">False</Setting>
+      <Setting id="Ch1_SusieLancer_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_Escape_Cell" type="bool">False</Setting>
+      <Setting id="Ch1_Enter_Elevator" type="bool">False</Setting>
+      <Setting id="Ch1_KRound2_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_Throne_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_PreKing_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_King_EndBattle" type="bool">False</Setting>
+      <Setting id="Ch1_King_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_Fountain_Enter" type="bool">False</Setting>
+      <Setting id="Ch1_Fountain_Exit" type="bool">False</Setting>
+      <Setting id="Ch1_Ending" type="bool">False</Setting>
+      <Setting id="Ch1_EndingOST" type="bool">False</Setting>
+      <Setting id="Ch1_AB" type="bool">False</Setting>
+      <Setting id="Ch1_CFWarp" type="bool">False</Setting>
+      <Setting id="Ch1_FBWarp" type="bool">False</Setting>
+      <Setting id="Ch1_BCWarp" type="bool">False</Setting>
+      <Setting id="Ch1_Jevil_EnterRoom" type="bool">False</Setting>
+      <Setting id="Ch1_Jevil_EndBattle" type="bool">False</Setting>
+      <Setting id="Ch1_Jevil_LeaveRoom" type="bool">False</Setting>
+      <Setting id="Ch2" type="bool">False</Setting>
+      <Setting id="Ch2_Library" type="bool">False</Setting>
+      <Setting id="Ch2_ArcadeGameText" type="bool">False</Setting>
+      <Setting id="Ch2_ArcadeGameLeave" type="bool">False</Setting>
+      <Setting id="Ch2_DJFight" type="bool">False</Setting>
+      <Setting id="Ch2_DJShopRoom" type="bool">False</Setting>
+      <Setting id="Ch2_Ragger2" type="bool">False</Setting>
+      <Setting id="Ch2_CyberFields_Exit" type="bool">False</Setting>
+      <Setting id="Ch2_TrashZoneWarp" type="bool">False</Setting>
+      <Setting id="Ch2_TrashZoneWarp2" type="bool">False</Setting>
+      <Setting id="Ch2_MansionWarp" type="bool">False</Setting>
+      <Setting id="Ch2_MansionWarp2" type="bool">False</Setting>
+      <Setting id="Ch2_TZCFWarp" type="bool">False</Setting>
+      <Setting id="Ch2_TZMWarp" type="bool">False</Setting>
+      <Setting id="Ch2_MCFWarp" type="bool">False</Setting>
+      <Setting id="Ch2_MTZWarp" type="bool">False</Setting>
+      <Setting id="Ch2_Egg" type="bool">False</Setting>
+      <Setting id="Ch2_Mouse2Puzzle" type="bool">False</Setting>
+      <Setting id="Ch2_Berdly_Leave" type="bool">False</Setting>
+      <Setting id="Ch2_SpamtonLeave" type="bool">False</Setting>
+      <Setting id="Ch2_CyberCity_Exit" type="bool">False</Setting>
+      <Setting id="Ch2_Mansion_Entrance" type="bool">False</Setting>
+      <Setting id="Ch2_Mansion_Exit" type="bool">False</Setting>
+      <Setting id="Ch2_TasqueManager" type="bool">False</Setting>
+      <Setting id="Ch2_Mauswheel" type="bool">False</Setting>
+      <Setting id="Ch2_AcidLake_Enter" type="bool">False</Setting>
+      <Setting id="Ch2_AcidLake_Exit" type="bool">False</Setting>
+      <Setting id="Ch2_Queen" type="bool">False</Setting>
+      <Setting id="Ch2_GigaQueen" type="bool">False</Setting>
+      <Setting id="Ch2_Fountain_Enter" type="bool">False</Setting>
+      <Setting id="Ch2_Fountain_Exit" type="bool">False</Setting>
+      <Setting id="Ch2_PuppetScarfChest" type="bool">False</Setting>
+      <Setting id="Ch2_Ending" type="bool">False</Setting>
+      <Setting id="Ch2_EndingOST" type="bool">False</Setting>
+      <Setting id="Ch2_AB" type="bool">False</Setting>
+      <Setting id="Ch2_Disk_Loaded" type="bool">False</Setting>
+      <Setting id="Ch2_Disk_Inserted" type="bool">False</Setting>
+      <Setting id="Ch2_SpamtonNEO_End" type="bool">False</Setting>
+      <Setting id="Ch2_SpamtonNEO_Leave" type="bool">False</Setting>
+      <Setting id="Ch2_WR" type="bool">False</Setting>
+      <Setting id="Ch2_FreezeRing" type="bool">False</Setting>
+      <Setting id="Ch2_ThornRing" type="bool">False</Setting>
+      <Setting id="Ch2_SGBerdly" type="bool">False</Setting>
+      <Setting id="Ch2_SGBerdly_LeaveRoom" type="bool">False</Setting>
+      <Setting id="Ch2_SGSpamtonNEO_End" type="bool">False</Setting>
+      <Setting id="Ch3" type="bool">False</Setting>
+      <Setting id="Ch3_EnterChef" type="bool">False</Setting>
+      <Setting id="Ch3_EndRound1" type="bool">False</Setting>
+      <Setting id="Ch3_EnterRhythm" type="bool">False</Setting>
+      <Setting id="Ch3_EndRound2" type="bool">False</Setting>
+      <Setting id="Ch3_EndRound3" type="bool">False</Setting>
+      <Setting id="Ch3_EnterTVW" type="bool">False</Setting>
+      <Setting id="Ch3_EnterRouxls" type="bool">False</Setting>
+      <Setting id="Ch3_ExitRouxls" type="bool">False</Setting>
+      <Setting id="Ch3_Egg" type="bool">False</Setting>
+      <Setting id="Ch3_StartTenna" type="bool">False</Setting>
+      <Setting id="Ch3_EndTenna" type="bool">False</Setting>
+      <Setting id="Ch3_StartKnight" type="bool">False</Setting>
+      <Setting id="Ch3_DieToKnight" type="bool">False</Setting>
+      <Setting id="Ch3_EndKnight" type="bool">False</Setting>
+      <Setting id="Ch3_Ending" type="bool">False</Setting>
+      <Setting id="Ch3_EndingOST" type="bool">False</Setting>
+      <Setting id="Ch3_AB" type="bool">False</Setting>
+      <Setting id="Ch3_IceKey" type="bool">False</Setting>
+      <Setting id="Ch3_ShelterKey" type="bool">False</Setting>
+      <Setting id="Ch3_EnterMantle" type="bool">False</Setting>
+      <Setting id="Ch3_EndMantle" type="bool">False</Setting>
+      <Setting id="Ch3_ShadowMantle" type="bool">False</Setting>
+      <Setting id="Ch4" type="bool">False</Setting>
+      <Setting id="Ch4_EnterCT" type="bool">False</Setting>
+      <Setting id="Ch4_StartMike" type="bool">False</Setting>
+      <Setting id="Ch4_EndMike" type="bool">False</Setting>
+      <Setting id="Ch4_NoellesHouse" type="bool">False</Setting>
+      <Setting id="Ch4_EnterDW" type="bool">False</Setting>
+      <Setting id="Ch4_EnterStudy" type="bool">False</Setting>
+      <Setting id="Ch4_Jackenstein" type="bool">False</Setting>
+      <Setting id="Ch4_GrandPiano" type="bool">False</Setting>
+      <Setting id="Ch4_MissMizzle" type="bool">False</Setting>
+      <Setting id="Ch4_Fountain1" type="bool">False</Setting>
+      <Setting id="Ch4_FallDown" type="bool">False</Setting>
+      <Setting id="Ch4_Egg" type="bool">False</Setting>
+      <Setting id="Ch4_FakeGerson" type="bool">False</Setting>
+      <Setting id="Ch4_Fountain2" type="bool">False</Setting>
+      <Setting id="Ch4_PrincessRBN" type="bool">False</Setting>
+      <Setting id="Ch4_PreClimbTitan1" type="bool">False</Setting>
+      <Setting id="Ch4_ClimbTitan1" type="bool">False</Setting>
+      <Setting id="Ch4_PreClimbTitan2" type="bool">False</Setting>
+      <Setting id="Ch4_ClimbTitan" type="bool">False</Setting>
+      <Setting id="Ch4_StartTitan" type="bool">False</Setting>
+      <Setting id="Ch4_InsideTitan" type="bool">False</Setting>
+      <Setting id="Ch4_EndTitan" type="bool">False</Setting>
+      <Setting id="Ch4_Fountain3" type="bool">False</Setting>
+      <Setting id="Ch4_Ending" type="bool">False</Setting>
+      <Setting id="Ch4_EndingOST" type="bool">False</Setting>
+      <Setting id="Ch4_AB" type="bool">False</Setting>
+      <Setting id="Ch4_GoldenPiano" type="bool">False</Setting>
+      <Setting id="Ch4_EnterHoJ" type="bool">False</Setting>
+      <Setting id="Ch4_HammerofJustice" type="bool">False</Setting>
+      <Setting id="Ch4_ExitHoJ" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
