@@ -330,11 +330,11 @@
           <Setting id="preset_anyPercent" type="bool">True</Setting>
           <Setting id="anyPercent_res-fortress-escape" type="bool">True</Setting>
           <Setting id="anyPercent_res-city-help-kid" type="bool">False</Setting>
-          <Setting id="anyPercent_tomb-poles-poles" type="bool">False</Setting>
+          <Setting id="anyPercent_tomb-poles-poles" type="bool">True</Setting>
           <Setting id="anyPercent_res-tomb-poles" type="bool">True</Setting>
           <Setting id="anyPercent_res-tomb-water" type="bool">False</Setting>
           <Setting id="anyPercent_res-tomb-boss" type="bool">True</Setting>
-          <Setting id="anyPercent_fortress-save-friends-introduction" type="bool">False</Setting>
+          <Setting id="anyPercent_fortress-save-friends-introduction" type="bool">True</Setting>
           <Setting id="anyPercent_res-fortress-save-friends" type="bool">True</Setting>
           <Setting id="anyPercent_res-sewer-escort" type="bool">True</Setting>
           <Setting id="anyPercent_res-city-stop-bomb-bots" type="bool">True</Setting>
