@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-389</X>
-  <Y>437</Y>
+  <X>-388</X>
+  <Y>436</Y>
   <VerticalWidth>368</VerticalWidth>
   <VerticalHeight>572</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -36,7 +36,7 @@
     <ImageOpacity>0.13</ImageOpacity>
     <ImageBlur>0</ImageBlur>
     <Opacity>1</Opacity>
-    <MousePassThroughWhileRunning>True</MousePassThroughWhileRunning>
+    <MousePassThroughWhileRunning>False</MousePassThroughWhileRunning>
   </Settings>
   <Components>
     <Component>
@@ -646,7 +646,7 @@
       <Settings>
         <ServerIP>10.0.0.54</ServerIP>
         <Port>16834</Port>
-        <EnableAutosplit>False</EnableAutosplit>
+        <EnableAutosplit>True</EnableAutosplit>
       </Settings>
     </Component>
   </Components>
