@@ -36,7 +36,7 @@
     <ImageOpacity>0.13</ImageOpacity>
     <ImageBlur>0</ImageBlur>
     <Opacity>1</Opacity>
-    <MousePassThroughWhileRunning>True</MousePassThroughWhileRunning>
+    <MousePassThroughWhileRunning>False</MousePassThroughWhileRunning>
   </Settings>
   <Components>
     <Component>

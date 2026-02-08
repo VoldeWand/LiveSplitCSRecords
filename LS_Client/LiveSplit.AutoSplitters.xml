@@ -2,6 +2,38 @@
 <AutoSplitters>
   <AutoSplitter>
     <Games>
+      <Game>VIVIDLOPE</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/VIVIDLOPE/LiveSplit.VIVIDLOPE.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autostart and Autosplitter by Streetbackguy</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>I Wanna Be the Guy</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTG.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>(FS) and (Slo Mo) Auto Splitter (Made By ACrowIAm)</Description>
+    <Website>https://github.com/ACrowIAm</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>I Wanna Be the Guy: Gaiden</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTGG.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>(v1.2b) Auto Splitter (Made By ACrowIAm)</Description>
+    <Website>https://github.com/ACrowIAm</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Kiki</Game>
     </Games>
     <URLs>
@@ -302,7 +334,7 @@
     </Games>
     <URLs>
       <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Dragon%20Quest%20III%20HD-2D%20Remake/LiveSplit.DragonQuest3HD2DRemake.asl</URL>
-      <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+      <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
     </URLs>
     <Type>Script</Type>
     <Description>Load Remover by Streetbackguy</Description>
@@ -4736,6 +4768,18 @@
     </URLs>
     <Type>Script</Type>
     <Description>Autosplitting and load removal is available (By Jujstme)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Barbie: Horse Trails</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/BarbieHorseTrails.asl</URL>
+      <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+      <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter available (by Jaffra)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -28264,5 +28308,25 @@
     </URLs>
     <Type>Script</Type>
     <Description>Autosplitter and Variables Tracker (by NickRPGreen)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Code Vein II</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Leftn/Code-Vein-2-Livesplit-script/refs/heads/main/cv2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Remover (by Left)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Spider-Man 2 (PC)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/SpiderMan2PC.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Start, Split (by Yuki.kaco)</Description>
   </AutoSplitter>
 </AutoSplitters>
